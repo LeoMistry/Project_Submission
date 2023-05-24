@@ -1,2 +1,3 @@
 # Project_Submission
 Plagiarism Checker
+This code can be run from the main file It tokenises each file in the same directory as the main code file. The names of each file will need to be entered into the array in the main file. The word frequency count is calculated and the program prints each files word counts in its own HTML report. The phrase matcher length can be set in the main code file. The code will calaculate the number of phrase matches and print it into a HTML report. Then the code wil compare the files tokens and calculate a similiarity percentage between each file which in printed onto a table in another HTML report.
